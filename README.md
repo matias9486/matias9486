@@ -19,16 +19,45 @@
 [![Bootstrap5](https://img.shields.io/badge/Bootstrap%205-8858ee?style=for-the-badge&logo=bootstrap&logoColor=8858ee&labelColor=black)]() 
 
 [![Github](https://img.shields.io/badge/Github-ddd3d1?style=for-the-badge&logo=github&logoColor=white&labelColor=black)]() 
-[![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=orange&labelColor=black)]() 
+[![JAVA](https://img.shields.io/badge/J-Java-orange?style=for-the-badge&labelColor=black)]() 
+[![Springboot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=springboot&logoColor=green&labelColor=black)]() 
+[![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=green&labelColor=black)]() 
+[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=59666C&labelColor=black)]() 
+
+
+[![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black)]() 
 [![Net](https://img.shields.io/badge/.NET-7c4edf?style=for-the-badge&logo=csharp&logoColor=7c4edf&labelColor=black)]() 
 [![SqlServer](https://img.shields.io/badge/MS%20Sql%20Server-a9192f?style=for-the-badge&logo=microsoftsqlserver&logoColor=red&labelColor=black)]() 
 [![MySql](https://img.shields.io/badge/MySql-fcb82f?style=for-the-badge&logo=mysql&logoColor=fcb82f&labelColor=black)]() 
 
+[![API](https://img.shields.io/badge/API-API%20Rest-0938cb?style=for-the-badge&labelColor=black)]() 
 [![MVC](https://img.shields.io/badge/MVC-Modelo%20Vista%20Controlador-0938cb?style=for-the-badge&labelColor=black)]() 
 [![Identity](https://img.shields.io/badge/MS%20Identity%20Framework-158ef2?style=for-the-badge&logo=microsoft&logoColor=158ef2&labelColor=black)]() 
 [![Entity](https://img.shields.io/badge/MS%20Entity%20Framework-158ef2?style=for-the-badge&logo=microsoft&logoColor=158ef2&labelColor=black)]() 
 
+<br>
 
+## React y Springboot <a href="https://github.com/matias9486/react_spring">(Ver Repositorio)</a><span>
+Aplicación Full Stack que integra React JS y Spring Boot con Java. El Sistema de Recursos Humanos desarrollado permite listar empleados, agregar, modificar y eliminar los mismos.
+
+<table>
+<tr>
+  <td>
+  <a href="https://raw.githubusercontent.com/matias9486/react_spring/main/screenshot/agregar_empleado.jpg" target="_blank"><img src="https://raw.githubusercontent.com/matias9486/react_spring/main/screenshot/agregar_empleado.jpg" alt="Agregar Empleado"></a>
+</td>
+  <td>
+    <a href="https://raw.githubusercontent.com/matias9486/react_spring/main/screenshot/editar_empleado.jpg" target="_blank"><img src="https://raw.githubusercontent.com/matias9486/react_spring/main/screenshot/editar_empleado.jpg" alt="Editar Empleado"></a>
+</td>
+  <td>
+<a href="https://raw.githubusercontent.com/matias9486/react_spring/main/screenshot/listar_empleados.jpg" target="_blank"><img src="https://raw.githubusercontent.com/matias9486/react_spring/main/screenshot/listar_empleados.jpg" alt="Listar Empleados"></a>
+</td>
+</tr>
+</table>
+
+<br>
+
+## Ecommerce UTN <a href="https://github.com/matias9486/ecommerce_utn">(Ver Repositorio)</a><span>
+API realizado en JAVA con springboot para administrar un ecommerce. El sistema permite realizar las operaciones basicas CRUD para los productos, personalizaciones del mismo, el comprador, publicaciones, tienda y mas :)
 
 <br>
 
