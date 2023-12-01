@@ -4,7 +4,7 @@
 
 <p>
   Buenassss!! Soy Matías de Mar del Plata 🌊, Argentina 🇦🇷 <br>
-  Desarrollador fullstack .Net y Java 💻<br>
+  Desarrollador fullstack Java y .Net 💻<br>
   Estudiante de Desarrollo de Software 👨🏽‍🎓<br>
   Amante del Fútbol ⚽ <br>
   Crítico de Cine y Series sin licencia 🎞️ 😂 <br>
